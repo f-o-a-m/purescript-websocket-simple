@@ -23,8 +23,8 @@
     "purescript"
   ],
   "dependencies": {
-    "purescript-web-socket": "^1.0.0",
-    "purescript-web-events": "^1.0.0",
+    "purescript-web-socket": "^2.0.0",
+    "purescript-web-events": "^2.0.1",
     "purescript-effect": "^2.0.0",
     "purescript-exceptions": "^4.0.0",
     "purescript-generics-rep": "^6.0.0",
